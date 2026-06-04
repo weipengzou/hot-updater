@@ -1,5 +1,16 @@
 # @hot-updater/cloudflare
 
+## 0.32.1
+
+### Patch Changes
+
+- 48f3ba7: Avoid Cloudflare D1's 100-parameter limit for large IN-list queries.
+  - @hot-updater/cli-tools@0.32.1
+  - @hot-updater/core@0.32.1
+  - @hot-updater/server@0.32.1
+  - @hot-updater/js@0.32.1
+  - @hot-updater/plugin-core@0.32.1
+
 ## 0.32.0
 
 ### Patch Changes
